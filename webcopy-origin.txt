@@ -1,0 +1,1188 @@
+Uri: https://data.ksrelief.org/
+File Name: E:\wibs\yowcopy\data.ksrelief.org\index.htm
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\index.htm
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/AC
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\AC.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/BC
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\BC.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/DE
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\DE.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/FS
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\FS.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/NS
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\NS.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/Search
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\Search.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Contributions/Timeline
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Contributions\Timeline.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/home/index
+File Name: E:\wibs\yowcopy\data.ksrelief.org\home\index.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/Error.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\Error.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/KSreliefStyle.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\KSreliefStyle.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/KSreliefStyle_inner.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\KSreliefStyle_inner.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/Mobile.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\Mobile.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/PagedList.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\PagedList.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/responsiveslides.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\responsiveslides.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/style.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\style.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_ar/themes.gif
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_ar\themes.gif
+Content Type: image/gif
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/Error.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\Error.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/KSreliefStyle.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\KSreliefStyle.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/KSreliefStyle_inner.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\KSreliefStyle_inner.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/Mobile.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\Mobile.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/PagedList.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\PagedList.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/responsiveslides.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\responsiveslides.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/style.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\style.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/css_en/themes.gif
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\css_en\themes.gif
+Content Type: image/gif
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Medium.OTF
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Medium.OTF
+Content Type: font/otf
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.eot
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.eot?
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.OTF
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular.OTF
+Content Type: font/otf
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.svg
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.ttf
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.woff
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular.woff
+Content Type: font/x-woff
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-Regular.woff2
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-Regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.eot
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.eot?
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.OTF
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold.OTF
+Content Type: font/otf
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.svg
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.ttf
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.woff
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold.woff
+Content Type: font/x-woff
+
+Uri: https://data.ksrelief.org/NewStyle/fonts/29LTBukra-SemiBold.woff2
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\fonts\29LTBukra-SemiBold.woff2
+Content Type: application/font-woff2
+
+Uri: https://data.ksrelief.org/NewStyle/img/1.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\1.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/img/favicon.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\favicon.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/img/intro-bg.jpg
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\intro-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://data.ksrelief.org/NewStyle/img/logo.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\logo.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/img/logoar.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\logoar.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/img/Mobile.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\Mobile.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/img/world-mapOld.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\img\world-mapOld.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/js/main.js?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\js\main.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/js/responsiveslides.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\js\responsiveslides.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/animate/animate.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/bootstrap.5.1.1/content/Scripts/bootstrap.bundle.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\bootstrap.5.1.1\content\Scripts\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/bootstrap/css/bootstrap.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/counterup/counterup.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\counterup\counterup.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/build/css/jquery.barCharts.css
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\build\css\jquery.barCharts.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/css/morris.css
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\css\morris.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/css/startmin.css
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\css\startmin.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/flot/excanvas.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\flot\excanvas.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/flot/jquery.flot.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\flot\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/flot/jquery.flot.pie.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\flot\jquery.flot.pie.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/flot/jquery.flot.resize.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\flot\jquery.flot.resize.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/flot/jquery.flot.time.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\flot\jquery.flot.time.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/flot/jquery.flot.tooltip.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\flot\jquery.flot.tooltip.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/morris.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\morris.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/raphael.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/Dashboard/js/startmin.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\Dashboard\js\startmin.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/easing/easing.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\easing\easing.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/css/font-awesome.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://data.ksrelief.org/NewStyle/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://data.ksrelief.org/NewStyle/lib/ionicons/css/ionicons.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\ionicons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://data.ksrelief.org/NewStyle/lib/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://data.ksrelief.org/NewStyle/lib/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\ionicons\fonts\ionicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://data.ksrelief.org/NewStyle/lib/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\ionicons\fonts\ionicons.woff
+Content Type: font/x-woff
+
+Uri: https://data.ksrelief.org/NewStyle/lib/jquery/jquery-3.6.0.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\jquery\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/jquery/jquery-migrate-3.3.2.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\jquery\jquery-migrate-3.3.2.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/jquery/jquery.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/lightbox/css/lightbox.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\lightbox\css\lightbox.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/lightbox/images/close.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\lightbox\images\close.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/lib/lightbox/images/loading.gif
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\lightbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://data.ksrelief.org/NewStyle/lib/lightbox/images/next.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\lightbox\images\next.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/lib/lightbox/images/prev.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\lightbox\images\prev.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/NewStyle/lib/owl-carouselNew/owl.carousel.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\owl-carouselNew\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/owl-carouselNew/owl.carousel.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\owl-carouselNew\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/owl-carouselNew/owl.theme.default.min.css?version=2.9
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\owl-carouselNew\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/select2/select2-4.1.0-rc.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\select2\select2-4.1.0-rc.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/select2/select2.min.css?version=2.1
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://data.ksrelief.org/NewStyle/lib/superfish/superfish.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/waypoints/waypoints.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/NewStyle/lib/wow/wow.min.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\NewStyle\lib\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://data.ksrelief.org/Pages/About
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Pages\About.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Pages/contact
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Pages\contact.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Pages/Definitions
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Pages\Definitions.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Pages/Terms
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Pages\Terms.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\index.htm
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/AC
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\AC.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/BC
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\BC.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/FS
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\FS.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/Maps
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\Maps.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/NS
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\NS.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/Search
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\Search.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/Sponsors
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\Sponsors.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Projects/Timeline
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Projects\Timeline.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/UploadData/icons/1-2.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\1-2.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/icons/SAR.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\SAR.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/icons/Untitled-2-01.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\Untitled-2-01.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/icons/Untitled-2-03old.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\Untitled-2-03old.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/icons/Untitled-2-04old.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\Untitled-2-04old.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/icons/UntitledSAR-2-01.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\UntitledSAR-2-01.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/icons/USD.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\icons\USD.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/10.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\10.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/101.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\101.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/104.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\104.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/107.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\107.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/11.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\11.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/116.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\116.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/117.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\117.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/118.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\118.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/119.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\119.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/12.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\12.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/120.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\120.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/121.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\121.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/122.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\122.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/123.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\123.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/124.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\124.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/125.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\125.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/126.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\126.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/127.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\127.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/129.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\129.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/13.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\13.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/130.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\130.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/131.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\131.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/132.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\132.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/133.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\133.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/134.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\134.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/135.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\135.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/136.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\136.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/138.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\138.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/14.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\14.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/140.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\140.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/141.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\141.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/143.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\143.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/144.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\144.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/145.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\145.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/147.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\147.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/148.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\148.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/149.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\149.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/15.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\15.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/151.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\151.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/152.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\152.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/153.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\153.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/154.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\154.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/155.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\155.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/156.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\156.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/159.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\159.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/160.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\160.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/161.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\161.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/162.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\162.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/164.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\164.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/165.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\165.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/166.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\166.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/167.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\167.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/168.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\168.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/17.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\17.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/170.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\170.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/171.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\171.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/172.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\172.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/173.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\173.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/175.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\175.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/176.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\176.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/177.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\177.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/178.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\178.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/179.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\179.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/18.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\18.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/180.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\180.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/182.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\182.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/183.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\183.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/184.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\184.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/185.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\185.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/188.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\188.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/189.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\189.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/19.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\19.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/190.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\190.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/191.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\191.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/192.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\192.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/195.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\195.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/198.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\198.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/199.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\199.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/20.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\20.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/200.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\200.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/201.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\201.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/202.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\202.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/203.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\203.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/204.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\204.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/205.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\205.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/206.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\206.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/207.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\207.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/208.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\208.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/21.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\21.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/211.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\211.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/213.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\213.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/215.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\215.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/216.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\216.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/217.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\217.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/218.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\218.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/22.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\22.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/220.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\220.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/221.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\221.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/222.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\222.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/223.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\223.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/226.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\226.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/227.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\227.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/23.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\23.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/231.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\231.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/232.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\232.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/233.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\233.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/234.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\234.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/24.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\24.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/26.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\26.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/27.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\27.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/28.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\28.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/29.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\29.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/3.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\3.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/30.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\30.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/32.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\32.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/33.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\33.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/34.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\34.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/35.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\35.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/36.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\36.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/37.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\37.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/38.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\38.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/39.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\39.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/4.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\4.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/40.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\40.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/43.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\43.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/44.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\44.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/45.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\45.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/46.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\46.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/47.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\47.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/50.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\50.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/51.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\51.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/52.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\52.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/53.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\53.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/54.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\54.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/58.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\58.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/59.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\59.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/6.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\6.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/61.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\61.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/62.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\62.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/63.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\63.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/64.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\64.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/69.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\69.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/7.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\7.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/72.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\72.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/75.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\75.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/76.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\76.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/77.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\77.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/78.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\78.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/79.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\79.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/80.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\80.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/81.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\81.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/82.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\82.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/83.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\83.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/84.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\84.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/85.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\85.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/9.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\9.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/90.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\90.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/91.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\91.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/92.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\92.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/93.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\93.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/94.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\94.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/96.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\96.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/97.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\97.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/map/99.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\map\99.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org1.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org1.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org11.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org11.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org13.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org13.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org16.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org16.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org2.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org2.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org20.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org20.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org3.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org3.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org4.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org4.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org7.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org7.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/UploadData/SaudiEntities/Org9.png
+File Name: E:\wibs\yowcopy\data.ksrelief.org\UploadData\SaudiEntities\Org9.png
+Content Type: image/png
+
+Uri: https://data.ksrelief.org/Visitors/
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Visitors\index.htm
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Visitors/DE
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Visitors\DE.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Visitors/FS
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Visitors\FS.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Visitors/NS
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Visitors\NS.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Visitors/Search
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Visitors\Search.html
+Content Type: text/html
+
+Uri: https://data.ksrelief.org/Visitors/Timeline
+File Name: E:\wibs\yowcopy\data.ksrelief.org\Visitors\Timeline.html
+Content Type: text/html
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: E:\wibs\yowcopy\data.ksrelief.org\js\300\addthis_widget.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-114730350-1
+File Name: E:\wibs\yowcopy\data.ksrelief.org\gtag\js
+Content Type: application/javascript
+

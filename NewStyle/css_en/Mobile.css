@@ -1,0 +1,287 @@
+
+@media (max-width: 1024px) {
+   
+
+    #intro {
+        padding: 125px 0 30px 0;
+    }
+}
+
+@media (max-width: 768px) {
+            .hideMobile {
+                display: none;
+            }
+              .ShowMobile {
+                display: block ;
+            }
+        }
+
+
+
+        @media screen and (min-width: 769px) {
+ .hideMobile {
+                display: flex ;
+            }
+              .ShowMobile {
+                display: none;
+            }
+}
+
+        
+@media (max-width: 999px) {
+    .hideMobileNew {
+        display: none;
+    }
+         .ShowMobileNew {
+                display: block ;
+            }
+             #intro {
+    width: 100%;
+    position: relative;
+    background: url(../img/Mobile.png) center bottom no-repeat;
+    background-size: cover;
+    padding: 260px 0 120px 0;
+}
+}
+
+@media screen and (min-width: 1000px) {
+    .hideMobileNew {
+        display: block;
+    }
+    .ShowMobileNew {
+                display: none;
+            }
+
+
+}
+
+@media (max-width: 768px) {
+    .hideMobileNewtable {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .hideMobileNewtable {
+        display: table-cell;
+    }
+}
+
+@media (max-width: 450px) {
+
+
+
+    .poster {
+        height: 330px;
+    }
+
+    #factsNew .counters p {
+    font-size: 15px;
+    }
+    #factsNew .counters .count .spa {
+    margin: 0 0 0 5px !important;
+     }
+    #factsNew .counters .count p {
+    font-size: 18px;
+}
+    #factsNew .counters .count h3 {
+    font-size: 12px;
+}
+
+        #factsNew .counters .count img {
+    width: 50px !important ;
+}
+    .MainPanel .SubHader {
+    padding: 20px 15px !important ;
+    }
+           .MainPanel .SubHader a {
+   top :30px !important ;
+   right :40px !important ;
+         }
+
+
+    .Statistic .title {
+        width:170px !important ;
+    }
+    .Statistic img {
+        left: 110px !important ;
+    }
+
+        .Statistic .value {
+
+        font-size: 12px;
+    font-weight: normal !important;
+}
+
+    .Statistic2 {
+      font-size: 12px;
+    }
+  .Statistic2 .title {
+    /*width:60%;*/
+}
+  .Statistic2 .valueNumber1 {
+    /*width: 15%;*/
+        font-size: 10px;
+    font-weight: normal !important;
+
+}
+    .Statistic2 .valueNumber {
+    /*width:25%;*/
+    padding-left: 5px;
+        font-size: 10px;
+    font-weight: normal !important;
+}
+
+      .flot-chart-content {
+    height:240px !important ;
+    }
+    .pieLabel {
+     display: none;
+    }
+.legend
+{
+   display: none;
+}
+.legendTable
+{
+   display: inline-block !important; 
+    width :100% !important; 
+}
+}
+
+        
+@media (max-width: 768px) {
+
+
+    body {
+    font-size:12px !important ; 
+    
+    }
+    .section-header h3 {
+    font-size:14px !important ; 
+    }
+
+    /*Top img*/
+    
+    .poster h3 {
+         font-size:14px !important ; 
+    }
+    .poster__content {
+         font-size:14px !important ; 
+    }
+    .rslides1_nav {
+    top:25%;
+       
+    }
+
+       /*about us*/
+    #about .about-col h2 {
+    font-size:14px !important ; 
+    }
+
+    #about .about-col p {
+    font-size:14px !important ; 
+    }
+
+    /*News*/
+    #testimonials .testimonial-item h3 {
+      font-size:14px !important ; 
+    }
+
+    #testimonials .testimonial-item p {
+      font-size:14px !important ; 
+    }
+    #testimonials .testimonial-item h4 {
+       font-size:14px !important ; 
+    }
+    #testimonials .cta-btn {
+    font-size:14px !important ; 
+    }
+     /*MAp*/
+    .countryTitle {
+      font-size:14px !important ; 
+      font-weight :bold !important ;
+
+    }
+    #facts .counters p {
+     font-size:14px !important ; 
+    }
+
+    #call-to-action .section-Summery h3 {
+     font-size:14px !important ; 
+    }
+    ul.timeline > li > .timeline-badge {
+     font-size:14px !important ; 
+    }
+    .timeline-title {
+           font-size:14px !important ; 
+    }
+
+      /*Story*/
+    .videoTitle {
+      font-size:14px !important ; 
+    }
+
+       /*OtherSite*/
+    #OtherSite .text {
+    font-size:14px !important ; 
+    }
+
+     /*footer*/
+    #footer .footer-top .footer-info h3 {
+    font-size:16px !important ; 
+    }
+
+     /*footer*/
+    .CallCenter {
+    font-size: 12px;
+}
+
+        .Statistic2 img {
+        left: -3% !important ;
+    }
+    
+
+  .Statistic2 .title {
+    /*width:60%;*/
+}
+  .Statistic2 .valueNumber1 {
+    /*width: 15%;*/
+}
+    .Statistic2 .valueNumber {
+    /*width:25%;*/
+    padding-left: 5px;
+}
+
+        .FCopyRight {
+    text-align:center !important ;
+    margin-bottom :10px !important ; 
+    }
+    
+    .FCopyRight2 {
+    text-align:center !important ;
+
+    }
+
+        }
+
+
+@media (max-width: 320px) {
+
+.Statistic img {
+    left: 95px;
+}
+
+#header #logo img {
+    max-width: 170px;
+ }
+#intro {
+
+    padding: 180px 0 120px 0;
+}
+#owl-Partner .item img {
+
+    width: 80px;
+    height: 80px;
+}
+}
